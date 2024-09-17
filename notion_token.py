@@ -29,4 +29,4 @@ class NotionToken:
             headers=headers
         )
         response.raise_for_status()
-        return response.cookies['token_v2']
+        return response.cookies[v02%3Auser_token_or_cookies%3A3QQi1pRtxSjineW8TaEPuuGzTXB5DFBziCLUlyBMQuBKavGBlWAaCf2BRSVKFfQH3XtMlBEiJbOmLZ99WOwm9ciQabo-t1OuYCjyAazItpGmWp-8U4Qekrp-_kR5n8dZvxj8;]
