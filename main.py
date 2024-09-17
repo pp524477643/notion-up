@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from notion_token import NotionToken
 from utils.config import Config
-from notion_backup import NotionUp
+from notion_backup import NotionUp 
 
 
 def start():
